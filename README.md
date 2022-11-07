@@ -1,3 +1,5 @@
+This is a home brewed project to show my skills to the world, feel free to run it and take a look. If you like so, you're welcome to use it for your business if it suits you. :)
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
